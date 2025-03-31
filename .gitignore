@@ -1,3 +1,7 @@
 env/
+<<<<<<< HEAD
 T5-en-hi/
 Finetune.ipynb
+=======
+T5_Finetune_en_hi/
+>>>>>>> 7cdfd59324ebaeebfd30f0706f6fa97342e3a18e
