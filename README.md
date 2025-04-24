@@ -1,2 +1,2 @@
-# XLangAI
- Making Transformer Models for English to Hindi Translation
+# BollyLingual
+ Finetuning a Transformer Model for English to Hindi Translation
